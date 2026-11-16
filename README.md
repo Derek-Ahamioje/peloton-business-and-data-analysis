@@ -76,8 +76,12 @@ The analysis revealed:
 - Hiking and Walk + Run activities generated significant output
 - Instructor **Kirsten Ferguson** emerged as a major contributor to workout engagement
 - Sunday recorded the highest workout activity levels
-- Peak workout periods occurred between **7:00 AM–10:00 AM** and **6:00 PM–7:00 PM**
 - On-demand workouts generated higher activity levels and calorie expenditure than live workouts
+- User workout activity exhibited two distinct peak periods:
+  - Morning peak between 7:00 AM and 10:00 AM
+  - Evening peak between 6:00 PM and 8:00 PM
+- Workout participation was significantly lower during afternoon hours.
+- User activity concentrated around two major workout windows: morning (7:00–10:00 AM) and evening (6:00–8:00 PM), indicating clear behavioural patterns in exercise engagement.
 
 ---
 
@@ -123,7 +127,11 @@ The repository includes visualisations relating to:
 See the `images/` folder for screenshots and dashboards.
 
 ---
+### Workout Activity by Time
 
+Analyses workout participation patterns throughout the day and identifies peak engagement periods. The visual reveals strong morning and evening workout behaviours among users.
+
+---
 ## Repository Structure
 
 ```text
